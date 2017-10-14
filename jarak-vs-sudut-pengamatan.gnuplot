@@ -5,7 +5,7 @@ set angles degrees
 
 unset key
 
-set title 'Jarak vs Panjang Bayangan'
+set title 'Jarak vs Sudut Pengamatan'
 set xlabel 'Jarak dari Pontianak (derajat)'
 set ylabel 'Sudut Pengamatan (derajat)'
 
